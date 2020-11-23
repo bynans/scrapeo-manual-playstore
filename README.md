@@ -1,0 +1,1 @@
+# scrapeo-manual-playstore
